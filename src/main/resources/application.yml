@@ -1,0 +1,9 @@
+application:
+  library-path: C:\lamis3\neurotec\Bin
+  server-url: http://localhost
+spring:
+  application:
+    admin:
+      enabled: true
+server:
+  port: 8888

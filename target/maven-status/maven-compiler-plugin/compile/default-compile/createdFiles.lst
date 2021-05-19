@@ -1,0 +1,16 @@
+org\fhi360\lamis\biometric\util\LibraryManager.class
+org\fhi360\lamis\biometric\config\WebConfiguration.class
+org\fhi360\lamis\biometric\web\BiometricResource$1.class
+org\fhi360\lamis\biometric\model\BiometricRequest.class
+org\fhi360\lamis\biometric\model\BiometricTemplate.class
+org\fhi360\lamis\biometric\BiometricApplication.class
+org\fhi360\lamis\biometric\config\ApplicationProperties.class
+org\fhi360\lamis\biometric\model\BiometricResult.class
+org\fhi360\lamis\biometric\model\Biometric.class
+org\fhi360\lamis\biometric\model\Device.class
+org\fhi360\lamis\biometric\util\Utils$ImageFileFilter.class
+org\fhi360\lamis\biometric\util\Utils$TemplateFileFilter.class
+org\fhi360\lamis\biometric\web\BiometricResource.class
+org\fhi360\lamis\biometric\util\Utils.class
+org\fhi360\lamis\biometric\util\Utils$XMLFileFilter.class
+org\fhi360\lamis\biometric\config\ContextProvider.class
